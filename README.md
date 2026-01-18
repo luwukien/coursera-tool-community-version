@@ -15,7 +15,7 @@ This is a modified verison of the **Coursera Tool**. I've unlocked all the **Pre
 4. Click **Load unpacked** and select the extracted folder 
 
 ## ❤️ Special Thanks
-Big shoutout to **kalbas** (the original author) for building such an amazing tool.
+Big shoutout to **Pear104** (the original author) for building such an amazing tool.
 > *Your code is great, but your paywall was annoying, so I removed it. No hard feelings!* 🥂
 
 ---
